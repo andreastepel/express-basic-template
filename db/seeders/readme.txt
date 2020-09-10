@@ -1,0 +1,1 @@
+After running sequelize seed:generate --name abc a new migration will appear here.
